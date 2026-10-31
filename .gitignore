@@ -1,0 +1,9 @@
+*.o
+*.elf
+*.hex
+build/
+.vscode/
+.DS_Store
+Thumbs.db
+sim_test
+sim_test.exe
